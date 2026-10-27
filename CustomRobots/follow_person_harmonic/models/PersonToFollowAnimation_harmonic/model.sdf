@@ -17,40 +17,40 @@
           <pose>0 0 1.05 0 0 0</pose> 
         </waypoint>
         <waypoint>
-          <time>6</time>
+          <time>7.5</time>
           <pose>3.0 0 1.05 0 0 0</pose>
         </waypoint>
         <waypoint>
-          <time>9</time>
-          <pose>4.0 1.0 1.05 0 0 1.57</pose>    <!--turn-->
+          <time>13.16</time>
+          <pose>4.0 1.0 1.05 0 0 1.57</pose> <!--turn-->
         </waypoint>
         <waypoint>
-          <time>21</time>
+          <time>28.16</time>
           <pose>4.0 7.0 1.05 0 0 1.57</pose>
         </waypoint>
         <waypoint>
-          <time>26</time>
+          <time>33.81</time>
           <pose>3.0 8.0 1.05 0 0 3.14</pose>  <!--turn-->
         </waypoint>
         <waypoint>
-          <time>64</time>
+          <time>81.31</time>
           <pose>-16.0 8.0 1.05 0 0 3.14</pose>  
         </waypoint>
         <waypoint>
-          <time>69</time>
+          <time>86.97</time>
           <pose>-17.0 7.0 1.05 0 0 4.71</pose> <!--turn-->
         </waypoint>
         <waypoint>
-          <time>83</time>
+          <time>101.97</time>
           <pose>-17.0 1.0 1.05 0 0 4.71</pose>
         </waypoint>
         <waypoint>
-          <time>88</time>
+          <time>107.63</time>
           <pose>-16.0 0.0 1.05 0 0 6.28</pose> <!--turn-->
         </waypoint>
         <waypoint>
-          <time>120</time>
-          <pose>0.0 0.0 1.05 0 0 6.28</pose> <!--turn-->
+          <time>147.63</time>
+          <pose>0.0 0.0 1.05 0 0 6.28</pose>
         </waypoint>
       </trajectory>
     </script>

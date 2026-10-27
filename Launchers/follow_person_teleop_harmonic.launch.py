@@ -11,7 +11,7 @@ from launch_ros.actions import Node
 def generate_launch_description():
     ros_gz_sim = get_package_share_directory("ros_gz_sim")
 
-    world_file_name = "reduced_hospital_harmonic_tp.world"
+    world_file_name = "reduced_hospital_animation_person_tp_harmonic.world"
     worlds_dir = "/opt/jderobot/Scenes"
     world_path = os.path.join(worlds_dir, world_file_name)
 

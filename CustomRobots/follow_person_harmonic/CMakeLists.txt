@@ -9,7 +9,7 @@ find_package(gz-plugin2 REQUIRED)
 find_package(gz-math7 REQUIRED)
 find_package(Threads REQUIRED)
 
-add_library(personplugin_harmonic SHARED src/person_harmonic.cpp)
+add_library(personplugin_harmonic SHARED src/person_animation_harmonic.cpp)
 
 target_include_directories(personplugin_harmonic
   PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
